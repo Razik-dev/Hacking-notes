@@ -1,6 +1,6 @@
 # 👤 Day 3 – Linux Users & Permissions
 
-## 📅 Date: 03/09/2025
+## 📅 Date: 09/09/2025
 
 ### 🔹 Commands Learned
 
