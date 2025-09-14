@@ -6,7 +6,7 @@
 
 #### Environment Variables
 - `echo $PATH` → show PATH (where executables are found)  
-- `echo $HOME` → show home directory  
+- `echo $HOME` → show home directory   
 - `env` / `printenv` → list environment variables  
 - `printenv PATH` → print PATH only  
 - `export MYVAR="hello"` → set a temporary variable in current shell  
