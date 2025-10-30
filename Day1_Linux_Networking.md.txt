@@ -1,0 +1,56 @@
+#  Day 1 – Linux Networking Commands
+
+##  Date: 08/09/2025
+
+### 🔹 Commands Learned
+- ifconfig
+- ip a
+- ping google.com
+- traceroute google.com
+- dig google.com
+- nslookup google.com
+- curl http://example.com
+- wget http://example.com/index.html
+
+---
+
+### 🔹 Practical Exercise
+
+- ![ifconfig output](images/day1_ifconfig.png)
+- ![ping output](images/day1_ping.png)
+- ![traceroute output](images/day1_traceroute.png)
+- ![dig output](images/day1_dig.png)
+- ![curl output](images/day1_curl.png)
+- ![wget output](images/day1_wget.png)
+- ![nslookup output](images/day1_nslookup.png)
+- ![ip a output](images/day1_ip a.png)
+---
+
+###  Key Learnings
+ifconfig / ip a → shows my system’s network interfaces, IP address, and MAC address.
+
+ping → checks if a host is reachable and measures response time (network connectivity test).
+
+traceroute → shows the path (hops) packets take to reach a server (useful to detect where network slows down).
+
+dig / nslookup → finds the IP address of a domain name by querying DNS servers.
+
+curl → fetches and displays website content directly in the terminal.
+
+wget → downloads files from the internet.
+
+Networking commands are fundamental in hacking because they help in:
+
+Identifying target machines
+
+Testing connectivity
+
+Gathering information (reconnaissance)
+
+Downloading files/tools for further exploitation
+
+---
+
+###  Next Step
+Tomorrow’s plan – File & Process Management
+
